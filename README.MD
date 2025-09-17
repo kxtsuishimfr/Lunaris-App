@@ -12,7 +12,7 @@ Lunaris has the following things in it:
 
 -Overlays Hub | Download overlays easily without searching every Discord channel or looking through TikTok for 'that one' overlay you try to find.
 
--Audio Editing Hub | Edit audio's without hassle using FFmpeg, a tool that offers advanced effects, no more using confusing app to edit your audios.
+-Audio Editing Hub | Edit audio's without hassle using FFmpeg, a tool that offers advanced effects, no more using confusing apps to edit your audios.
 
 ----------------------------------------------------------------------
 
